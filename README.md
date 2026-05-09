@@ -1,7 +1,7 @@
 # Hi, I'm Dipendu Debnath! 👋 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Founder-OmixCalculator-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founder-OmixCalculator.in-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20In-Tripura-9cf?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tech-AI--Driven%20Builder-green?style=for-the-badge" />
 </div>
